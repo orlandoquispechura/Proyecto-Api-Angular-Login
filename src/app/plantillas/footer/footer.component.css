@@ -1,0 +1,17 @@
+footer{
+    position: fixed;
+    bottom: 0px;
+    height: 30px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    line-height: 30px;
+    
+}
+
+@media only screen and(max-width:575px){
+    footer{
+        margin-top: 10px;
+    }
+}
